@@ -6,6 +6,7 @@ This is an import Library of Assets from the Wizardry 8 game in the Unity Engine
 
 
 Huge thanks to mad dog, creator of CosmicForge http://mad-god.webs.com/cosmicforge.htm, for the info on the file format of the game.
+
 Software architecture and some files taken from the awesome project DaggerfallUnity https://github.com/Interkarma/daggerfall-unity
 
 + *Minimum Unity3D version* - 5.5.0f3
